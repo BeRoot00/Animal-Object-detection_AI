@@ -27,11 +27,11 @@ Command line usage for object detection using YOLO version 3
 
     * A video file:
      ```bash
-     python3 detect.py --video=myvideo.mp4 --device 'cpu'
+     python3 detect.py --video myvideo.mp4 --device 'cpu'
      ```
     * A single image:
     ```bash
-    python3 detect.py --image=cat_and_dog.jpg --device 'cpu'
+    python3 detect.py --image cat_and_dog.jpg --device 'cpu'
     ```
 
 
@@ -39,11 +39,11 @@ Command line usage for object detection using YOLO version 3
 
     * A video file:
      ```bash
-     python3 detect.py --video=myvideo.mp4 --device 'gpu'
+     python3 detect.py --video myvideo.mp4 --device 'gpu'
      ```
     * A single image:
     ```bash
-    python3 detect.py --image=cat_and_dog.jpg --device 'gpu'
+    python3 detect.py --image cat_and_dog.jpg --device 'gpu'
     ```
 
 ### Results of programme after using an image
