@@ -1,7 +1,5 @@
 ### Artificial Intelligence Project for Object and Animal Recognition
 
-This project aims to develop an advanced artificial intelligence system capable of recognizing and identifying various objects and animals from images and videos. The main objective is to provide an accurate and robust solution for automatic recognition, which can have numerous practical applications.
-
 By harnessing the power of technologies such as YOLOv3 and OpenCV, I have developed a robust and accurate system for recognizing and identifying objects and animals from images and videos.
 
 I have followed a systematic approach, including data collection, preprocessing, model training, validation, and the creation of a user-friendly interface. By doing so, we have ensured the reliability and usability of my recognition system.
