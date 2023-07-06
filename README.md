@@ -9,10 +9,8 @@ You have just to run the **getModels.sh** file from command line to download the
 	sudo chmod a+x getModels.sh
 	./getModels.sh
 Or, you can download the file by using the command : 
-
-     ```bash
-     wget https://pjreddie.com/media/files/yolov3.weights 
-     ```
+	
+  		wget https://pjreddie.com/media/files/yolov3.weights 
 
 
 ### Run the code
